@@ -1,0 +1,20 @@
+{
+  "name": "5_lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.4.5",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "jasmine": "^3.10.0",
+    "jasmine-expect": "^5.0.0"
+  }
+}
